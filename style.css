@@ -167,6 +167,12 @@ section {
   justify-content: center;
   gap: 5rem;
   height: 80vh;
+  background-image: url('./assets/background1.jpg'); /* Path to the image */
+  background-size: cover; /* Makes the background cover the entire section */
+  background-position: center center; /* Centers the image */
+  background-repeat: no-repeat; /* Ensures the image doesn't repeat */
+  min-height: 100vh; /* Makes the section take up at least the full viewport height */
+  padding: 20px; /* Optional: Adjust padding if needed */
 }
 
 .section__pic-container {
@@ -265,6 +271,12 @@ section {
 
 #about {
   position: relative;
+  background-image: url('./assets/background2.jpg'); /* Path to the image */
+  background-size: cover; /* Makes the background cover the entire section */
+  background-position: center center; /* Centers the image */
+  background-repeat: no-repeat; /* Ensures the image doesn't repeat */
+  min-height: 100vh; /* Makes the section take up at least the full viewport height */
+  padding: 20px; /* Optional: Adjust padding if needed */
 }
 
 .about-containers {
@@ -318,6 +330,12 @@ section {
 
 #experience {
   position: relative;
+  background-image: url('./assets/background3.jpg'); /* Path to the image */
+  background-size: cover; /* Makes the background cover the entire section */
+  background-position: center center; /* Centers the image */
+  background-repeat: no-repeat; /* Ensures the image doesn't repeat */
+  min-height: 100vh; /* Makes the section take up at least the full viewport height */
+  padding: 20px; /* Optional: Adjust padding if needed */
 }
 
 .experience-sub-title {
@@ -357,6 +375,12 @@ article .icon {
 
 #projects {
   position: relative;
+  background-image: url('./assets/background4.jpg'); /* Path to the image */
+  background-size: cover; /* Makes the background cover the entire section */
+  background-position: center center; /* Centers the image */
+  background-repeat: no-repeat; /* Ensures the image doesn't repeat */
+  min-height: 100vh; /* Makes the section take up at least the full viewport height */
+  padding: 20px; /* Optional: Adjust padding if needed */
 }
 
 .color-container {
@@ -387,6 +411,12 @@ article .icon {
   justify-content: center;
   flex-direction: column;
   height: 70vh;
+  background-image: url('./assets/background5.jpg'); /* Path to the image */
+  background-size: cover; /* Makes the background cover the entire section */
+  background-position: center center; /* Centers the image */
+  background-repeat: no-repeat; /* Ensures the image doesn't repeat */
+  min-height: 100vh; /* Makes the section take up at least the full viewport height */
+  padding: 20px; /* Optional: Adjust padding if needed */
 }
 
 .contact-info-upper-container {
