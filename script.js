@@ -4,3 +4,8 @@ function toggleMenu() {
     menu.classList.toggle("open");
     icon.classList.toggle("open");
 }
+
+window.onhashchange = function() {
+    // Trigger a full page refresh when navigating to a new section
+    window.location.reload();
+};
