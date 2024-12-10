@@ -271,7 +271,7 @@ section {
 
 #about {
   position: relative;
-  background-image: url('./assets/background2.jpg'); /* Path to the image */
+  background-image: url('./assets/about/background2.jpg'); /* Path to the image */
   background-size: cover; /* Makes the background cover the entire section */
   background-position: center center; /* Centers the image */
   background-repeat: no-repeat; /* Ensures the image doesn't repeat */
@@ -331,7 +331,7 @@ section {
 #experience {
   position: relative;
   color: rgb(0, 0, 0);
-  background-image: url('./assets/background3.jpg'); /* Path to the image */
+  background-image: url('./assets/experience/background3.jpg'); /* Path to the image */
   background-size: cover; /* Makes the background cover the entire section */
   background-position: center center; /* Centers the image */
   background-repeat: no-repeat; /* Ensures the image doesn't repeat */
@@ -376,7 +376,7 @@ article .icon {
 
 #projects {
   position: relative;
-  background-image: url('./assets/background4.jpg'); /* Path to the image */
+  background-image: url('./assets/projects/background4.jpg'); /* Path to the image */
   background-size: cover; /* Makes the background cover the entire section */
   background-position: center center; /* Centers the image */
   background-repeat: no-repeat; /* Ensures the image doesn't repeat */
@@ -412,7 +412,7 @@ article .icon {
   justify-content: center;
   flex-direction: column;
   height: 70vh;
-  background-image: url('./assets/background5.jpg'); /* Path to the image */
+  background-image: url('./assets/contact/background5.jpg'); /* Path to the image */
   background-size: cover; /* Makes the background cover the entire section */
   background-position: center center; /* Centers the image */
   background-repeat: no-repeat; /* Ensures the image doesn't repeat */
